@@ -1,7 +1,7 @@
 <img src="/background.png">
 <h2 align="center">
         <samp>Hey There 👋, I am
-                <b><a target="_blank" href="https://niteshpaudel.com">Nitesh Paudel</a></b>
+                <b><a target="_blank" href="https://ubaidullah.com">Ubaid Ullah</a></b>
         </samp>
 </h2>
 
@@ -9,26 +9,23 @@
 <h3 align="center"> 
   <samp>
     <br>
-    「 <b> A Full-Stack Flutter & Web Developer</b> 」
+    「 <b> Aspiring MERN-STACK Developer</b> 」
     <br>
     <br>
   </samp>
 </h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/nitesh-paudel-b0a6a6238/" target="_blank">
+ <a href="https://www.linkedin.com/in/ubaid-ullah-5b9949179/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nitesh"/>
  </a>
- <a href="https://dribbble.com/niteshpaudel" target="_blank">
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Nitesh"/>
- </a>
- <a href="https://twitter.com/nitesvh" target="_blank">
+ 
+ 
+ <a href="https://twitter.com/ubaidd6" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Nitesh"/>
  </a>
- <a href="https://instagram.com/nitesvh" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Nitesh"/>
- </a> 
- <a href="https://mailto:niteshpaudel.x@gmail.com" target="_blank">
+ 
+ <a href="https://mailto:juciyubaid@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EB562E?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Nitesh"/>
   </a>
 </p>
