@@ -86,7 +86,7 @@
 <br>
 
 <div align="center"> 
-    <a href="https://github.com/juicyubaid"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=juicyubaid&show_icons=true&count_private=true&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
+    <a href="https://github.com/juicyubaid"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=juicyubaid&show_icons=true&count_private=true&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a> <br><br>
   <a href="https://github.com/juicyubaid"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juicyubaid&langs_count=8&layout=compact&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
   <br/>
 </div>
