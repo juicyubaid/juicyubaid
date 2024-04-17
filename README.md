@@ -17,16 +17,16 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ubaid-ullah-5b9949179/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nitesh"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ubaid"/>
  </a>
  
  
  <a href="https://twitter.com/ubaidd6" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Nitesh"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ubaid"/>
  </a>
  
  <a href="https://mailto:juciyubaid@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EB562E?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Nitesh"/>
+  <img src="https://img.shields.io/badge/Gmail-EB562E?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Ubaid"/>
   </a>
 </p>
 <br>
@@ -86,10 +86,10 @@
 <br>
 
 <div align="center"> 
-    <a href="https://github.com/juicyubaid"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=niteshpaudel&show_icons=true&count_private=true&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
-  <a href="https://github.com/juicyubaid"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=niteshpaudel&langs_count=8&layout=compact&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
+    <a href="https://github.com/juicyubaid"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=juicyubaid&show_icons=true&count_private=true&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
+  <a href="https://github.com/juicyubaid"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juicyubaid&langs_count=8&layout=compact&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
   <br/>
 </div>
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juicyubaid&custom_title=Nitesh%20Paudel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=238636&line=238636&point=238636&area_color=238636&title_color=c9d1d9&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juicyubaid&custom_title=Ubaid%20Ullah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=238636&line=238636&point=238636&area_color=238636&title_color=c9d1d9&area=true">
